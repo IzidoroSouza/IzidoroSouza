@@ -6,6 +6,6 @@
 
 <br>
 
-<div>
+<div align="center">
 <img src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp" min-width="400px" max-width="400px" width="400px" align="center"/>
 </div> <br>
