@@ -7,5 +7,5 @@
 <br>
 
 <div align="center">
-<img src="https://i.giphy.com/AQRapWCgC7dThyVEYb.webp" min-width="400px" max-width="400px" width="400px" align="center"/>
+<img src="https://giphy.com/embed/6XuA2WMKsgqS4" min-width="400px" max-width="400px" width="400px" align="center"/>
 </div> <br>
