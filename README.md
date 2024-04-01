@@ -5,5 +5,5 @@
 </div>
 
 <div>
-  <img src="https://i.gifer.com/S4T1.gif"/>  
+  <img src="https://i.gifer.com/S4T1.gif" min-width="400px" max-width="400px" width="400px" align="center"/>  
 </div>
