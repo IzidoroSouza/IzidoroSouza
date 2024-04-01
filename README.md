@@ -4,4 +4,6 @@
 
 </div>
 
-<iframe src="https://gifer.com/embed/S4T1" width=480 height=198.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
+<div>
+  <img src="https://i.gifer.com/S4T1.gif"/>  
+</div>
