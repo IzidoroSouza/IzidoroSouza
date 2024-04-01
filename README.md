@@ -6,6 +6,6 @@
 
 <div>
   
-<iframe src="https://gifer.com/embed/7YOn" width=480 height=259.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
+<iframe src="https://gifer.com/embed/7YOn" width=480 height=259.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
 
 </div>
