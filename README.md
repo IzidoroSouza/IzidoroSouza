@@ -5,5 +5,5 @@
 </div>
 
 <div>
-  <img src="https://i.gifer.com/S4T1.gif" min-width="400px" max-width="400px" width="400px" align="center"/>  
+  <img src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat.gif"/>  
 </div>
